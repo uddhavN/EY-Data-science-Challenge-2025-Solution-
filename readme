@@ -90,7 +90,6 @@ City agencies can download GeoTIFFs and CSVs for policy scenarios (e.g., tree-pl
 We withheld 20% of Manhattan’s Upper West Side. The model predicted afternoon hot-spots along Broadway canyons within ±0.8 °C; cool corridors around Riverside Park matched observations.
 Sample prediction table (first 8 rows of public CSV):
 nyc_uhi_challenge_data.csv
-Generated File
 6. Scaling Guidance
 Other cities: swap footprints and weather sources; LCZ encoding boosts zero-shot performance.
 
